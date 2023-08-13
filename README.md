@@ -1,7 +1,14 @@
 ### Hi there and welcome to my profile👋!
 
-I am Navodith Shankar
+I am Navodith Shankar. I'm a passionate junior at NJIT, pursuing a major in Computer Science and Business with a minor in Data Analytics. 📚 
 
+💻🎮 My coding arsenal includes Python, Java, and C, allowing me to bring innovative ideas to life and solve intricate problems. I've got a solid grip on SQL for managing data, and crafting impactful visualizations using tools like Tableau and Power BI.
+
+📊 When I'm not immersed in code or crunching data, you can find me watching boxing matches or tennis matches, listening to music or indulging in my favorite hobby - Cars. 🥊🎾 I believe that sports, like technology, teach us about dedication, strategy, and the thrill of competition. I also have an eclectic taste in music that keeps my creative juices flowing.
+
+🌟 In the realm of data analysis, I'm well-versed in various Python libraries that help me uncover meaningful insights from complex datasets. Whether it's trend analysis, predictive modeling, or crafting compelling data stories, I'm up for the challenge!
+
+Feel free to connect with me to discuss tech, share car enthusiast stories, chat about music and games, or even dissect the latest boxing match or tennis showdown! 🚗🎶🎮🥊🎾
 <!--
 **navos2003/navos2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
